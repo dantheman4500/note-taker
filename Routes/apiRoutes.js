@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const store = require("../db/store");
+const store = require('../db/store');
 
 
 //* routes with the conecting notes with the index.html 

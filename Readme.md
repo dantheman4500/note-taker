@@ -27,7 +27,7 @@ This lightweight application allows for users to write and store notes to a serv
 
 If you choose to make edits to this application or to run it on a local server, I'd recommend running `npm i` within the root of the directory to download all necessary node modules. I was also using nodemon for my local server needs before deploying to heroku. If you aren't interested in making any changes, you can deploy it to heroku as well or wherever else you'd like to deploy to.
 
-If you aren't interested in using the project on your machine, you can find it on heroku [here](https://express-note-taker-jp.herokuapp.com/).
+If you aren't interested in using the project on your machine, you can find it on heroku [here](https://sleepy-gorge-74052.herokuapp.com/).
 
 ### <a name="Usage"></a>Usage
 
